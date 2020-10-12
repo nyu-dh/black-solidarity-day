@@ -8,19 +8,19 @@ layout: none
   "label": "items",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/002/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bsd001/manifest.json",
       "@type": "sc:Manifest",
-      "label": "002"
+      "label": "bsd001"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/003/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bsd003/manifest.json",
       "@type": "sc:Manifest",
-      "label": "003"
+      "label": "bsd003"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/001/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bsd002/manifest.json",
       "@type": "sc:Manifest",
-      "label": "001"
+      "label": "bsd002"
     }
   ]
 }

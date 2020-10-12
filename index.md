@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: items
-  pid: 002
+  pid: 'bsd002'
   y: 10%
 ---
 
