@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+title:            'Black Solidarity Day'
+description:      ''
+url:              ''
+baseurl:          '/black-solidarity-day'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -29,7 +29,9 @@ logo:             '/assets/logo.png'
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
-
+plugins:
+  - jekyll-remote-theme
+remote_theme: 'minicomp/wax@main'
 permalink: 'pretty'
 sass:
   style: compressed
@@ -64,13 +66,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  items: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'bsd_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'bsd.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -83,16 +85,6 @@ collections:
 search:
   main:
     index: '/search/index.json' # file the index will get written to
-    collections:
-      qatar:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
