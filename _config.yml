@@ -20,7 +20,7 @@
 
 title:            'Black Solidarity Day'
 description:      ''
-url:              ''
+url:              'https://nyu-dss.github.io'
 baseurl:          '/black-solidarity-day'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
@@ -110,10 +110,6 @@ menu:
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
