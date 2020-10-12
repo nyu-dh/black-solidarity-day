@@ -1,2 +1,4 @@
-sudo: required
 language: ruby
+notifications:
+  email: false
+script: bundle exec jekyll build
