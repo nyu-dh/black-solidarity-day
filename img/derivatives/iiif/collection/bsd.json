@@ -1,0 +1,111 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/bsd.json",
+  "@type": "sc:Collection",
+  "label": "bsd",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1994/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_1994"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1979/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_1979"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_2018/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_2018"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1985/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_1985"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_pressconference_1969"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_flyer_circa1970/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_flyer_circa1970"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/gmail_countdown_ 27_days_to_black_solidarity_day/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "gmail_countdown_ 27_days_to_black_solidarity_day"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1989/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_1989"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1988/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_eventflyer_1988"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_pressconference_1969_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_pressconference_1969_2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/2020-11-02-black-solidarity-day-300dpi-522x722-1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "2020-11-02-black-solidarity-day-300dpi-522x722-1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "blacksolidarityday_paradephoto_1972_8"
+    }
+  ]
+}

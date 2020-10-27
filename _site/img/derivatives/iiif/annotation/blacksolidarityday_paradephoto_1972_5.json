@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/annotation/blacksolidarityday_paradephoto_1972_5.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_5/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_5",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1109,
+    "height": 718
+  },
+  "on": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/canvas/blacksolidarityday_paradephoto_1972_5.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "blacksolidarityday_pressconference_1969",
+  "thumbnail": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/sequence/blacksolidarityday_pressconference_1969.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/canvas/blacksolidarityday_pressconference_1969.json",
+          "label": "front",
+          "width": 2276,
+          "height": 1462,
+          "thumbnail": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/annotation/blacksolidarityday_pressconference_1969.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1138,
+                "height": 731
+              },
+              "on": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/canvas/blacksolidarityday_pressconference_1969.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/full/0/default.jpg",
+  "fullwidth": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/1140,/0/default.jpg"
+}

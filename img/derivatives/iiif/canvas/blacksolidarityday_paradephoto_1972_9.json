@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/blacksolidarityday_paradephoto_1972_9.json",
+  "label": "front",
+  "width": 2156,
+  "height": 1480,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/blacksolidarityday_paradephoto_1972_9.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1078,
+        "height": 740
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/blacksolidarityday_paradephoto_1972_9.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

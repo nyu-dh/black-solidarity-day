@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_4/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "blacksolidarityday_paradephoto_1972_4",
+  "thumbnail": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/sequence/blacksolidarityday_paradephoto_1972_4.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/canvas/blacksolidarityday_paradephoto_1972_4.json",
+          "label": "front",
+          "width": 2240,
+          "height": 1322,
+          "thumbnail": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/annotation/blacksolidarityday_paradephoto_1972_4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1120,
+                "height": 661
+              },
+              "on": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/canvas/blacksolidarityday_paradephoto_1972_4.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/full/0/default.jpg",
+  "fullwidth": "http://localhost:4000/black-solidarity-day/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/1140,/0/default.jpg"
+}
