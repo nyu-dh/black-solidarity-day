@@ -1,17 +1,21 @@
 ---
 layout: page
 show_title: false
+show_quote: true
 banner:
   collection: bsd
-  pid: 'blacksolidarityday_paradephoto_1972_5'
+  pid: 'blacksolidarityday_paradephoto_1972_1'
+  y: '100%'
 ---
+### Brief History
+
+Activist, ambassador, and professor Dr. Carlos Russell created Black Solidarity Day in 1969. He was inspired by a play written by Douglas Turner Ward, “Day of Absence,” in which Black residents of a fictional Southern town disappear, revealing to the town’s white residents the extent to which their lives depend on Black labor. ([Excerpts of the play are available on the National Humanities Center’s website](http://nationalhumanitiescenter.org/pds/maai3/protest/text12/warddayofabsence.pdf), and the full text of the play may also be found at your local library.)
 
 
+On Black Solidarity Day, Black and African diasporic people are asked to stay home from work and school, and to not shop or participate in other commercial activities. This day is meant to highlight racial injustices, societal inequities, and to illuminate how Black voices are integral to American life.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum sem arcu, sed accumsan justo tempor feugiat. Sed a sem ante. Cras faucibus lectus enim, in commodo dolor congue quis. Nulla lacinia sagittis quam. In mollis tempor lorem sit amet pretium. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus aliquet, lorem accumsan dictum dapibus, dolor metus pretium nisi, at auctor ex augue eget libero. Proin a molestie nisi. Sed vel commodo dolor. Praesent faucibus nisi eget nisi gravida tempor. Nullam sodales ultrices purus vitae mollis. Fusce vel nunc feugiat, cursus erat in, vulputate nibh. Cras lacinia porttitor dolor, quis volutpat neque volutpat et. Maecenas imperdiet, nulla eget imperdiet aliquam, nibh mi lobortis urna, sit amet posuere velit quam convallis sapien.
+This project was envisioned by Jasmine Sykes-Kunk after many of the NYU Libraries staff participated in the #StrikeforBlackLIves #ShutdownAcademia in June 2020. This day of reflection, and learning instead, was in response to the national calls to action and protests following the murder of George Floyd. This strike reminded Jasmine of the Black Solidarity Day community events of her childhood. Through research she discovered that it had primarily been a regional action. Jasmine hoped to spotlight Black Solidarity Day collections materials within NYU Special Collections, and to build a space for community connection and greater awareness for the significance of this annual day of protest.
 
-Aliquam erat quam, suscipit quis tristique at, pulvinar iaculis lorem. Mauris erat orci, porttitor in congue vitae, lacinia nec felis. Morbi quis ante in tellus ornare finibus tincidunt vitae diam. Aliquam molestie maximus tortor vitae vulputate. Aenean rhoncus lectus id mauris ultrices ultrices. Sed in mi id dui lacinia dapibus. Cras suscipit metus in ligula varius, in fermentum risus elementum. Sed cursus cursus quam, eget scelerisque diam posuere id. Morbi rhoncus massa nec velit ultricies, eget scelerisque quam pharetra. Morbi malesuada ligula et metus faucibus laoreet.
-
-### Browse the Collection
+### Browse the Exhibition
 
 {% include collection_gallery.html collection="bsd" facet_by="object_type" %}

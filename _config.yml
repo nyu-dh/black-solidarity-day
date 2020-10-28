@@ -22,7 +22,7 @@ title:            'Black Solidarity Day'
 description:      ''
 url:              'https://nyu-dss.github.io'
 baseurl:          '/black-solidarity-day'
-copyright:        'Example copyright org, 2019'
+copyright:        'CC 2020'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -34,6 +34,8 @@ plugins:
 remote_theme: 'minicomp/wax@data-from-submodule'
 permalink: 'pretty'
 incremental: true
+livereload: true
+open_url: true
 sass:
   style: compressed
 exclude:
@@ -95,12 +97,12 @@ collections:
 menu:
   - label: 'About'
     link: '/about/'
-  - label: 'Participate'
-    link: '/participate/'
+  - label: 'Get Involved'
+    link: '/get-involved/'
   - label: 'Resources'
     link: '/resources/'
-  - label: 'Collection'
-    link: '/collection/'
+  - label: 'Browse the Exhibition'
+    link: '/exhibition/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -109,13 +111,9 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
-  logos:
-    - img: '/img/logo.png'
+    - label: 'NYU Special Collections'
+      link: 'https://library.nyu.edu/locations/special-collections-center/'
 
 # FIN

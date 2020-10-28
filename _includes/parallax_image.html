@@ -1,0 +1,37 @@
+{% if include.image %}
+  {% assign image = include.image %}
+{% else %}
+  {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
+  {% assign image = item.full %}
+{% endif %}
+
+{%- capture style -%}
+  background-image: url('{{ image | absolute_url }}');
+  background-position: 0% {{ include.y | default: '15%' }};
+
+  {% if include.height %}
+  height: {{ include.height }} !important;
+  {% endif %}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+{%- endcapture -%}
+
+<div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
+  <div class='parallax-image' style="{{ style | strip }}">
+    {% if page.show_quote %}
+    <blockquote>
+      <p>“Black Solidarity Day is celebrated on the Monday before Election Day to remind the nation of the collective strength and political power of the Black Community.”</p>
+      <p>— CUNY Newswire, October 30, 2014.</p>
+    </blockquote>
+    {% endif %}
+  </div>
+
+  {% if item.label %}
+  <div class='parallax-caption'>
+    <div class='wax-inline-container'>
+      Above: <a href='{{ item.url | absolute_url }}'>{{ item.label }}</a>
+    </div>
+  </div>
+  {% endif %}
+</div>
