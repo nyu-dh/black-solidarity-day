@@ -111,8 +111,6 @@ menu:
 
 footer:
   links:
-    - label: 'Credits'
-      link: '/credits'
     - label: 'NYU Special Collections'
       link: 'https://library.nyu.edu/locations/special-collections-center/'
 
