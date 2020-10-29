@@ -2,6 +2,7 @@
 sitemap: false
 ---
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,600;1,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
 
 /* branding */
 $logo: url("{{ '/assets/logo.png' | absolute_url }}");
@@ -52,7 +53,8 @@ font & asset import
   blockquote{
     opacity: .9;
     font-size: 1.4em;
-    width:70%;
+    max-width: 90%;
+    width: 800px;
     margin: 0 auto;
     font-style:italic;
     color:$text-color;
@@ -87,4 +89,14 @@ font & asset import
 
 .top-banner{
   margin-bottom: 0;
+}
+
+.custom-brand {
+  font-family: 'Cabin Sketch', 'Work Sans', 'sans-serif';
+  text-transform: uppercase;
+  line-height: 80%;
+}
+#wax-main h3 {
+  font-family: 'Cabin Sketch', 'Work Sans', 'sans-serif';
+  text-transform: uppercase;
 }
