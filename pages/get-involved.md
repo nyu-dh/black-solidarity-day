@@ -25,7 +25,8 @@ A: No. We will be updating the site on a regular basis.
 
 The following 2020 Black Solidarity Day events are some of the events that are happening in the NYC area. If you’d like to have your event listed, whether or not it is local to NYC, please email us.
 
-- Impact Brooklyn [Black Solidarity Day](https://impacctbrooklyn.org/event/black-solidarity-day/)
+
+- IMPACCT Brooklyn [Black Solidarity Day](https://impacctbrooklyn.org/event/black-solidarity-day/)
 - Black Veterans for Social Justice [Black Solidarity Day programming](https://impacctbrooklyn.org/event/black-solidarity-day/)
 - December 12th Movement [Black Solidarity Day unity march and virtual rally](http://d12m.com/)
 - CUNY City Tech African American Studies Department presents [a virtual, live event—Black Lives Lead: We, Too, Sing America!](http://calendar.citytech.cuny.edu/ADCalendar/EventList.aspx?view=EventDetails&eventidn=4026&information_id=9144&type=&rss=rss)

@@ -5,7 +5,7 @@ label: Black Solidarity Day Parade, 1972
 _date: '1972'
 author: Ron Tyson, The Daily Worker and The Daily World
 location: New York, New York
-description: A adult pushes a stroller in front of the "Harlem Institude for Marxist
+description: An adult pushes a stroller in front of the "Harlem Institute for Marxist
   Studies" banner during the Black Solidarity Day Parade in 1972. Black Solidarity
   Day was conceived as a day of unity for all Black people and so it has historically
   offered events that are inclusive and supportive of the participation of families.

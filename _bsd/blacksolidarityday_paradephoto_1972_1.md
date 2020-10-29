@@ -3,7 +3,7 @@ pid: blacksolidarityday_paradephoto_1972_1
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 18c, Shoot 720258
 label: Black Solidarity Day Parade, 1972
 _date: '1972'
-author: Ron Tyson, The Daily Worker and The Day World
+author: Ron Tyson, The Daily Worker and The Daily World
 location: New York, New York
 description: Children, and adults pushing strollers, march in front of a banner that
   reads "Harlem Institute Marxist Studies." In the middleground of the photograph,
