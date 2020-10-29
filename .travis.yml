@@ -1,4 +1,6 @@
 language: ruby
 notifications:
   email: false
-script: bundle exec jekyll build
+script:
+  - bundle exec jekyll build -d _site/black-solidarity-day
+  - bundle exec rake wax:test
