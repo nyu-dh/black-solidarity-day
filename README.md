@@ -31,3 +31,28 @@ $ bundle exec jekyll serve --host 0.0.0.0 --verbose
 ```
 
 You can exit the container at any time with `$ exit`, which will automatically stop and remove the container.
+
+## Add new collection data using docker
+
+1. Enter a Wax Docker container (step 3 above)
+2. Tear down the existing collection 
+```
+$ bundle exec rake wax:clobber bsd
+```
+3. In your local site directory (`~/Desktop/black-solidarity-day`), replace `_data/bsd-data.csv` with the new/updated CSV of records and add/replace any items in `_data/raw_images` as needed.
+4. Regenerate the image derivatives
+```
+$ bundle exec rake wax:derivatives:iiif bsd
+```
+5. Regenerate the item pages
+```
+ $ bundle exec rake wax:pages bsd
+```
+6. Serve the site to make sure it looks right
+```
+bundle exec jekyll serve --host 0.0.0.0 --verbose
+```
+7. Exit the container with `$ exit`, then commit and push your changes.
+
+
+
