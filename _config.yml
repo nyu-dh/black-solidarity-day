@@ -22,7 +22,7 @@ title:            'Black Solidarity Day'
 description:      ''
 url:              'https://nyu-dss.github.io'
 baseurl:          '/black-solidarity-day'
-copyright:        'CC 2020'
+# copyright:        ''
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
