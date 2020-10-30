@@ -21,6 +21,10 @@ A: This is a public exhibit. Though what is shared on the exhibition site is not
 __Q: Is there a deadline for submission?__  
 A: No. We will be updating the site on a regular basis.
 
+__Q: What information are you collecting in the submission form?__  
+A: Our submission form is a Google Form, which is a survey tool that is included in the Google Docs Editors software suite and is owned and operated by Google. While we are not utilizing the “collect emails” feature within our form, Google will record your name and photo associated with your email account when you upload files and submit them using this form. Submissions to this form must be completed using a Gmail account. Please feel free to email us at blackcollections@nyu.edu if you have questions or issues with the submission process.
+
+
 ### Participate
 
 The following 2020 Black Solidarity Day events are some of the events that are happening in the NYC area. If you’d like to have your event listed, whether or not it is local to NYC, please email us.
