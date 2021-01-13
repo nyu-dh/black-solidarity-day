@@ -1,0 +1,49 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1962,
+  "height": 3963,
+  "sizes": [
+    {
+      "width": 1962,
+      "height": 3963
+    },
+    {
+      "width": 250,
+      "height": 505
+    },
+    {
+      "width": 1140,
+      "height": 2303
+    },
+    {
+      "width": 375,
+      "height": 757
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

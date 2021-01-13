@@ -19,6 +19,10 @@ layout: none
     {
       "width": 1140,
       "height": 783
+    },
+    {
+      "width": 375,
+      "height": 257
     }
   ],
   "profile": [

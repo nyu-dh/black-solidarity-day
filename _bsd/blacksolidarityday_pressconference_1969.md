@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1BwZ1Yk1flARXIx3a2ALNRk4NlRUMoAdk/view?usp=sharing
 pid: blacksolidarityday_pressconference_1969
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 15a, Shoot 690188
 label: Black Solidarity Day Conference, October 28, 1969
@@ -13,10 +14,11 @@ description: 'Left to right: Livingston Wingate (New York Urban League), C. Herb
   forgrounds the image.'
 object_type: photograph
 scan_complete: Y
-order: '10'
+order: '11'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/375,/0/default.jpg"
 ---

@@ -46,5 +46,6 @@ layout: none
     }
   ],
   "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/1140,/0/default.jpg"
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/1140,/0/default.jpg",
+  "osd-thumb": "{{ '/' | absolute_url }}img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/375,/0/default.jpg"
 }

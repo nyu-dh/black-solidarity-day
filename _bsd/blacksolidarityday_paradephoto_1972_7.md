@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1TyjQpfmpBihBsUle806sl95d6xpwUe3O/view?usp=sharing
 pid: blacksolidarityday_paradephoto_1972_7
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 33, Shoot 720258
 label: Black Solidarity Day Parade, 1972
@@ -10,10 +11,11 @@ description: A line of community leaders and honored parade participants, wearin
   along the parade route.
 object_type: photograph
 scan_complete: Y
-order: '03'
+order: '07'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_7/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_7/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_7/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_7/full/375,/0/default.jpg"
 ---

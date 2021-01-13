@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1dI5khifCIzLiMtW0DVZiTw1wlLhXlzq6/view?usp=sharing
 pid: blacksolidarityday_paradephoto_1972_8
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 18c, Shoot 720258
 label: Black Solidarity Day Parade, 1972
@@ -11,10 +12,11 @@ description: The City Mission Cadet Corps (CMCC) Warriors Drum and Bugle Corps, 
   line and bugle corps. Here the Warriors march in the 1972 Black Solidarity Day parade
 object_type: photograph
 scan_complete: Y
-order: '18'
+order: '08'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_8/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/375,/0/default.jpg"
 ---

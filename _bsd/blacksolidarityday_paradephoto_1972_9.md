@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1cap-lkYs83TVc77H_V2NbB8j--YuV5Pp/view?usp=sharing
 pid: blacksolidarityday_paradephoto_1972_9
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 18c, Shoot 720258
 label: Black Solidarity Day Parade, 1972
@@ -11,10 +12,11 @@ description: Two individuals ride on a float that reads "Malcolm X The Man" in t
   national flag
 object_type: photograph
 scan_complete: Y
-order: '17'
+order: '09'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_9/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/375,/0/default.jpg"
 ---
