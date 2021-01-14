@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1BwZ1Yk1flARXIx3a2ALNRk4NlRUMoAdk/view?usp=sharing
 pid: blacksolidarityday_pressconference_1969_2
 contributor: Tamiment-Wagner Collections, Photos.223.001, Box 15a, Shoot 690188
 label: Black Solidarity Day Conference, October 28, 1969
@@ -17,10 +18,11 @@ description: 'Participants in the 1969 Black Solidarity Day Press conference, wh
   and Administrators Organization).'
 object_type: photograph
 scan_complete: Y
-order: '15'
+order: '10'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969_2/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/375,/0/default.jpg"
 ---

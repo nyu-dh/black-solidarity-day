@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1_8cHQRoiWsv4hHisy8nrAU3yZVK17Q8F/view?usp=sharing
 pid: gmail_countdown_ 27_days_to_black_solidarity_day
 contributor: Jasmine Sykes-Kunk
 label: 'Email  - Countdown: 27 days to Black Solidarity Day'
@@ -10,10 +11,11 @@ description: 'Email received on October 5,2020 and printed on October 26, 2020 f
   Day '
 object_type: email
 scan_complete: Y
-order: '12'
+order: '22'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/gmail_countdown_ 27_days_to_black_solidarity_day_0/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/gmail_countdown_ 27_days_to_black_solidarity_day_0/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/gmail_countdown_ 27_days_to_black_solidarity_day/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/gmail_countdown_ 27_days_to_black_solidarity_day_0/full/375,/0/default.jpg"
 ---

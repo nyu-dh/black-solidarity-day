@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/1lVlOfsxNJJlCocacZBgE0hX7mx_l0YT-/view?usp=sharing
 pid: blacksolidarityday_eventflyer_1994
 contributor: University Archives Collections, RG 39.212 Box 2, Folder 7
 label: NYU Black Solidarity Day Event Flyer 1994
@@ -9,10 +10,11 @@ description: Flyer of a Black Solidarity Day event co-sponsored by the Black Stu
   Services Center and Brothers for Brothers at NYU
 object_type: flyer
 scan_complete: Y
-order: '00'
+order: '16'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1994/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1994/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_eventflyer_1994/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1994/full/375,/0/default.jpg"
 ---

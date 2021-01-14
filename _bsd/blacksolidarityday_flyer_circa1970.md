@@ -1,4 +1,5 @@
 ---
+scan_link: https://drive.google.com/file/d/15gyuMprysWFwARwHdgLu3QnWcjtvL58v/view?usp=sharing
 pid: blacksolidarityday_flyer_circa1970
 contributor: Tamiment-Wagner Collections, PE.036, Box 15
 label: Black Solidarity Day Flyer
@@ -19,10 +20,11 @@ description: This flyer calls for a Black Solidarity Day Convention to happen at
   Solidarity Day.
 object_type: flyer
 scan_complete: Y
-order: '11'
+order: '00'
 layout: bsd_item
 collection: bsd
 thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/blacksolidarityday_flyer_circa1970/manifest.json"
+osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/375,/0/default.jpg"
 ---

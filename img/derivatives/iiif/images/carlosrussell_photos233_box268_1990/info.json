@@ -1,0 +1,49 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlosrussell_photos233_box268_1990",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2405,
+  "height": 3009,
+  "sizes": [
+    {
+      "width": 2405,
+      "height": 3009
+    },
+    {
+      "width": 250,
+      "height": 313
+    },
+    {
+      "width": 1140,
+      "height": 1426
+    },
+    {
+      "width": 375,
+      "height": 469
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

@@ -48,6 +48,11 @@ layout: none
       "label": "blacksolidarityday_eventflyer_2018"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/rg_39_212_box_2_folder_wsn_1991_item_11041991_wsn_page2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "rg_39_212_box_2_folder_wsn_1991_item_11041991_wsn_page2"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_2/manifest.json",
       "@type": "sc:Manifest",
       "label": "blacksolidarityday_paradephoto_1972_2"
@@ -61,6 +66,26 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_1/manifest.json",
       "@type": "sc:Manifest",
       "label": "blacksolidarityday_paradephoto_1972_1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/carlosrussell_photos233_box268_1990/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "carlosrussell_photos233_box268_1990"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/charles_joyner_blacksolidarityday_2020/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "charles_joyner_blacksolidarityday_2020"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json",
@@ -83,19 +108,24 @@ layout: none
       "label": "blacksolidarityday_eventflyer_1989"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/douglasturner_photos233_box317_nodate/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "douglasturner_photos233_box317_nodate"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_eventflyer_1988/manifest.json",
       "@type": "sc:Manifest",
       "label": "blacksolidarityday_eventflyer_1988"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/black-solidarity-day-300dpi-2020-11-02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "black-solidarity-day-300dpi-2020-11-02"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_pressconference_1969_2/manifest.json",
       "@type": "sc:Manifest",
       "label": "blacksolidarityday_pressconference_1969_2"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/2020-11-02-black-solidarity-day-300dpi-522x722-1/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "2020-11-02-black-solidarity-day-300dpi-522x722-1"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/blacksolidarityday_paradephoto_1972_9/manifest.json",
