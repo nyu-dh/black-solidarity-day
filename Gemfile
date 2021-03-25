@@ -3,7 +3,9 @@ source 'https://rubygems.org'
 
 gem 'html-proofer'
 gem 'jekyll'
-gem 'wax_tasks'
+gem 'wax_tasks', github: 'minicomp/wax_tasks', branch: 'chore/vips'
+gem 'wax_iiif', github: 'minicomp/wax_iiif',branch: 'chore/vips'
+
 
 group :plugins do
   gem 'jekyll-remote-theme'

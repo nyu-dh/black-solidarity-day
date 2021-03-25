@@ -16,7 +16,7 @@ layout: none
       "resource": {
         "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1/full/full/0/default.jpg",
         "@type": "dcterms:Image",
-        "format": "image/jpeg",
+        "format": "jpegload_source",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1",

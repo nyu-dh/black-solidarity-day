@@ -16,7 +16,7 @@ layout: none
       "resource": {
         "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/full/0/default.jpg",
         "@type": "dcterms:Image",
-        "format": "image/jpeg",
+        "format": "jpegload_source",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0",
