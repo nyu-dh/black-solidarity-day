@@ -1,4 +1,5 @@
-# Black Solidarity Day [![Build Status](https://travis-ci.com/nyu-dss/black-solidarity-day.svg?branch=main)](https://travis-ci.com/nyu-dss/black-solidarity-day)
+# Black Solidarity Day ✊🏿
+[![ci:deploy](https://github.com/nyu-dss/black-solidarity-day/workflows/ci:deploy/badge.svg)](https://github.com/nyu-dss/black-solidarity-day/actions)
 
 ## Prerequisites 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
