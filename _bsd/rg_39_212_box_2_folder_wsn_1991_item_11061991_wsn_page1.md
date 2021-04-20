@@ -2,7 +2,7 @@
 scan_link:
 pid: rg_39_212_box_2_folder_wsn_1991_item_11061991_wsn_page1
 contributor: University Archives Collections, RG 39.212, Box 2, Folder WSN 1991
-label: '"Black leaders push unity at solidarity day forum"'
+label: Black leaders push unity at solidarity day forum
 _date: '1991'
 author: Kimberly Seals
 location: New York, New York

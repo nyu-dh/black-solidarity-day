@@ -2,7 +2,7 @@
 scan_link:
 pid: rg_39_212_box_2_folder_wsn_1991_item_11041991_wsn_page2
 contributor: University Archives Collections, RG 39.212, Box 2, Folder WSN 1991
-label: '"Celebrate Black Solidarity" '
+label: Celebrate Black Solidarity
 _date: '1991'
 author: Kimberly Seals
 location: New York, New York
