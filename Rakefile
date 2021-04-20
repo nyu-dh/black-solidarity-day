@@ -4,6 +4,9 @@ Dir.glob("#{spec.gem_dir}/lib/tasks/*.rake").each { |r| load r }
 require 'html-proofer'
 require 'yaml'
 
+SafeYAML::OPTIONS[:suppress_warnings] = true
+SafeYAML::OPTIONS[:default_mode] = :safe
+
 @config  = YAML.load_file '_config.yml'
 @baseurl = ENV['BASEURL'] || @config.dig('baseurl')
 
