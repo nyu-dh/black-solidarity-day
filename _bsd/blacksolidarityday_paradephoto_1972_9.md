@@ -12,11 +12,11 @@ description: Two individuals ride on a float that reads "Malcolm X The Man" in t
   national flag
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_9/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/1140,/0/default.jpg"
 order: '09'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_9/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_9/full/375,/0/default.jpg"
 ---

@@ -20,11 +20,11 @@ description: This flyer calls for a Black Solidarity Day Convention to happen at
   Solidarity Day.
 object_type: flyer
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_flyer_circa1970/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/1140,/0/default.jpg"
 order: '00'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_flyer_circa1970/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_flyer_circa1970/full/375,/0/default.jpg"
 ---

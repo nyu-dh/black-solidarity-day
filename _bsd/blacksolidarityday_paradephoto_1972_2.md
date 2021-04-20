@@ -12,11 +12,11 @@ description: 'Marchers in the 1972 Black Solidarity Day parade carry a banner th
   individuals cheering on the parade. '
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_2/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_2/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_2/full/1140,/0/default.jpg"
 order: '02'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_2/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_2/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_2/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_2/full/375,/0/default.jpg"
 ---

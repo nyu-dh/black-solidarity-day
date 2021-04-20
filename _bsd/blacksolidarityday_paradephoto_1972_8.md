@@ -12,11 +12,11 @@ description: The City Mission Cadet Corps (CMCC) Warriors Drum and Bugle Corps, 
   line and bugle corps. Here the Warriors march in the 1972 Black Solidarity Day parade
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_8/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/1140,/0/default.jpg"
 order: '08'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_8/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_8/full/375,/0/default.jpg"
 ---

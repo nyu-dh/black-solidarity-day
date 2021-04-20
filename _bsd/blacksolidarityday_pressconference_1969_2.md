@@ -18,11 +18,11 @@ description: 'Participants in the 1969 Black Solidarity Day Press conference, wh
   and Administrators Organization).'
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969_2/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/1140,/0/default.jpg"
 order: '10'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969_2/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969_2/full/375,/0/default.jpg"
 ---

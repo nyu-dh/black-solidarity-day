@@ -10,11 +10,11 @@ description: Flyer of a Black Solidarity Day event sponsored by the Black Studen
   Services Center at NYU
 object_type: flyer
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_eventflyer_1985/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1985/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1985/full/1140,/0/default.jpg"
 order: '14'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1985/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1985/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_eventflyer_1985/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_eventflyer_1985/full/375,/0/default.jpg"
 ---

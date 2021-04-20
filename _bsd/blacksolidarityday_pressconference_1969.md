@@ -14,11 +14,11 @@ description: 'Left to right: Livingston Wingate (New York Urban League), C. Herb
   forgrounds the image.'
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/1140,/0/default.jpg"
 order: '11'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_pressconference_1969/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_pressconference_1969/full/375,/0/default.jpg"
 ---

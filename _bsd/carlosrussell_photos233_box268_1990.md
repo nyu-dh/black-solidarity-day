@@ -11,11 +11,11 @@ description: Dr. Carlos E. Russell was the founder of Black Solidarity Day. In t
   photograph, he is seated, staring at the camera, with his hands in his lap
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/carlosrussell_photos233_box268_1990/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/carlosrussell_photos233_box268_1990/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/carlosrussell_photos233_box268_1990/full/1140,/0/default.jpg"
 order: '23'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/carlosrussell_photos233_box268_1990/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/carlosrussell_photos233_box268_1990/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/carlosrussell_photos233_box268_1990/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/carlosrussell_photos233_box268_1990/full/375,/0/default.jpg"
 ---

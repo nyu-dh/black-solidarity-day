@@ -11,11 +11,11 @@ description: Douglas Turner Ward was the author of the play "A Day of Absence" w
   inspired the creation of Black Solidarity Day
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/douglasturner_photos233_box317_nodate/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/douglasturner_photos233_box317_nodate/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/douglasturner_photos233_box317_nodate/full/1140,/0/default.jpg"
 order: '24'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/douglasturner_photos233_box317_nodate/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/douglasturner_photos233_box317_nodate/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/douglasturner_photos233_box317_nodate/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/douglasturner_photos233_box317_nodate/full/375,/0/default.jpg"
 ---

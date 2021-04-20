@@ -11,11 +11,11 @@ description: A person wearing a dress and holidng a bouquet of flowers sits in a
   camera and raising their fist.
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_4/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/1140,/0/default.jpg"
 order: '04'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_4/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_4/full/375,/0/default.jpg"
 ---

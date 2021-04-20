@@ -9,11 +9,11 @@ location: Brooklyn, New York
 description: Flyer for the Black Solidarity Day 2020 Unity March and Virtual Rally
 object_type: flyer
 scan_complete: Y
+manifest: "/img/derivatives/iiif/black-solidarity-day-300dpi-2020-11-02/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/black-solidarity-day-300dpi-2020-11-02/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/black-solidarity-day-300dpi-2020-11-02/full/1140,/0/default.jpg"
 order: '20'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/black-solidarity-day-300dpi-2020-11-02/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/black-solidarity-day-300dpi-2020-11-02/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/black-solidarity-day-300dpi-2020-11-02/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/black-solidarity-day-300dpi-2020-11-02/full/375,/0/default.jpg"
 ---

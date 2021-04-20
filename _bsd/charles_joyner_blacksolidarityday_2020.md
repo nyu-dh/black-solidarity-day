@@ -11,11 +11,11 @@ description: This is a Google slides about what Black Solidarity Day means to me
   School.
 object_type: slide
 scan_complete: Y
+manifest: "/img/derivatives/iiif/charles_joyner_blacksolidarityday_2020/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/1140,/0/default.jpg"
 order: '25'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/charles_joyner_blacksolidarityday_2020/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/charles_joyner_blacksolidarityday_2020_0/full/375,/0/default.jpg"
 ---

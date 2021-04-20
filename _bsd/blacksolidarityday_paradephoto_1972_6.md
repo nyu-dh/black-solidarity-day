@@ -12,11 +12,11 @@ description: An adult pushes a stroller in front of the "Harlem Institude for Ma
   offered events that are inclusive and supportive of the participation of families.
 object_type: photograph
 scan_complete: Y
+manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_6/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_6/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_6/full/1140,/0/default.jpg"
 order: '06'
 layout: bsd_item
 collection: bsd
-thumbnail: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_6/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_6/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/blacksolidarityday_paradephoto_1972_6/manifest.json"
 osd-thumb: "/img/derivatives/iiif/images/blacksolidarityday_paradephoto_1972_6/full/375,/0/default.jpg"
 ---
