@@ -7,7 +7,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      BASEURL: '/black-solidarity-day'
+      BASEURL: 'projects/black-solidarity-day'
     steps:
       - uses: actions/checkout@v2
         with:
@@ -28,4 +28,4 @@ jobs:
           username: ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}}
           password: ${{secrets.FTP_PASSWORD}}
           local-dir: ./_site/
-          server-dir: black-solidarity-day/
+          server-dir: projects/black-solidarity-day/
