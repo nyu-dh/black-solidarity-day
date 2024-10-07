@@ -28,9 +28,8 @@ logo:             '/assets/logo.png'
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
-plugins:
-  - jekyll-remote-theme
-remote_theme: 'minicomp/wax@data-from-submodule'
+
+theme: 'wax_theme'
 permalink: 'pretty'
 incremental: true
 livereload: true
